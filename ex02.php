@@ -1,3 +1,5 @@
+//Amine EJJORFI
+
 <?php
 	$f = fopen('text.txt', 'r+');
 	$read = fread($f,filesize('text.txt'));
